@@ -1,0 +1,33 @@
+{
+    "name": "Redzeno",
+    "short_name": "Redzeno",
+    "start_url": "./?utm_source=web_app_manifest",
+    "display": "browser",
+    "lang": "nl-NL",
+    "orientation": "portrait-primary",
+    "background_color": "#fefefe",
+    "theme_color": "#850017",
+    "description": "Surf op Redzeno.",
+    "icons": [
+        {
+            "src": "images/redzeno-logo-icon-red.png",
+            "sizes": "162x162",
+            "type": "image/png"
+        },
+        {
+            "src": "icons.ico",
+            "sizes": "16x16 24x24 32x32 48x48 64x64 96x96 128x128"
+        },
+        {
+            "src": "images/redzeno-logo-icon-red.svg",
+            "sizes": "any"
+        }
+    ],
+    "related_applications": [
+        {
+            "platform": "web",
+            "url": "https://www.redzeno.nl",
+            "id": "nl.redzeno.www"
+        }
+    ]
+}
